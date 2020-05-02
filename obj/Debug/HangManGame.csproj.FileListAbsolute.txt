@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\HangManGame\bin\Debug\HangManGame.exe
+C:\Users\pc\source\repos\HangManGame\bin\Debug\HangManGame.exe.config
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.MainForm.resources
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.MainGame.resources
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.Properties.Resources.resources
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.exe
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.pdb
+C:\Users\pc\source\repos\HangManGame\bin\Debug\HangManGame.pdb
+C:\Users\pc\source\repos\HangManGame\obj\Debug\HangManGame.csprojAssemblyReference.cache
